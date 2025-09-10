@@ -1,4 +1,4 @@
-# 💫 Sumit kumar:
+# 💫 Hi 👋 I'm Sumit kumar
 - 🔭 I’m currently working on: Full-Stack Web Projects & C++ Console Applications  <br>- 🌱 I’m currently learning: Data Science, Machine Learning & Advanced SQL  <br>- 👯 I’m looking to collaborate on: Open-Source Web Development & Python-based Projects  <br>- 🤔 I’m looking for help with: Optimizing ML Models & Real-World Deployment  <br>- 💬 Ask me about: C++, Python, Web Development, and Databases  <br>- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sumit-kumar-659751310/) | [Email](mailto:officialsumitkumar31gmail.com)  <br>- 😄 Pronouns: He/Him  <br>- ⚡ Fun fact: I started coding with C++ and built my own Snake Game in it! 🐍  <br>
 
 
