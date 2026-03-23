@@ -1,24 +1,77 @@
-# 💫 Hi 👋 I'm Sumit kumar
-- 🔭 I’m currently working on: Full-Stack Web Projects & C++ Console Applications  <br>- 🌱 I’m currently learning: Data Science, Machine Learning & Advanced SQL  <br>- 👯 I’m looking to collaborate on: Open-Source Web Development & Python-based Projects  <br>- 🤔 I’m looking for help with: Optimizing ML Models & Real-World Deployment  <br>- 💬 Ask me about: C++, Python, Web Development, and Databases  <br>- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sumit-kumar-659751310/) | [Email](mailto:officialsumitkumar31gmail.com)  <br>- 😄 Pronouns: He/Him  <br>- ⚡ Fun fact: I started coding with C++ and built my own Snake Game in it! 🐍  <br>
+<h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;AI+ML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things"/>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sumit_kumar.11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-kumar-659751310) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officialsumitkumar31@gmail.com) 
+<h3 align="center">🚀 Aspiring Software Engineer | AI/ML Enthusiast | Full Stack Developer</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sumitkumar136&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sumitkumar136&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitkumar136&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sumitkumar136&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sumitkumar136&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sumitkumar136&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me:
+- 🔭 Working on: **Full-Stack Web Apps & C++ Projects**
+- 🌱 Learning: **Data Science | Machine Learning | Advanced SQL**
+- 👯 Open to collaborate on: **Open Source & Python Projects**
+- 🤔 Exploring: **ML Model Optimization & Deployment**
+- 💬 Ask me about: **C++, Python, Web Dev, Databases**
+- ⚡ Fun fact: Built my own **Snake Game 🐍 in C++**
+
+---
+
+## 🌐 Connect with Me:
+<p align="left">
+<a href="https://instagram.com/sumit_kumar.11"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="https://linkedin.com/in/sumit-kumar-659751310"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:officialsumitkumar31@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,html,css,php,mysql,mongodb,bootstrap,jquery,git,github,tensorflow,pytorch" />
+</p>
+
+---
+
+## 📊 GitHub Analytics:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumitkumar136&show_icons=true&theme=tokyonight" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Sumitkumar136&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitkumar136&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Achievements:
+- 🥇 **1st Prize** in College Web App Competition (.NET Project)
+- 💼 Completed Internship in **Web Development & Python**
+- 📊 Hands-on Experience in **SQL, Excel & Data Analysis**
+
+---
+
+## 🚀 Featured Projects:
+- 🐍 **Snake Game (C++)**
+- 📒 **Contact Book (Python)**
+- 🌐 **Hotel Management System (Full Stack)**
+- 💳 **Credit Card Fraud Detection (ML Project)**
+
+---
+
+## 🔥 Contribution Graph:
+[![Sumit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumitkumar136&theme=tokyo-night)](https://github.com/Sumitkumar136)
+
+---
+
+## 👀 Profile Views:
+![](https://visitcount.itsvg.in/api?id=Sumitkumar136&icon=5&color=6)
+
+---
+
+⭐️ From [Sumit Kumar](https://github.com/Sumitkumar136)
