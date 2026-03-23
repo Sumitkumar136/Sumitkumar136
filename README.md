@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;AI+ML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+ML+Enthusiast;Open+Source+Contributor;Building+Real+World+Projects"/>
 </p>
 
 <h3 align="center">🚀 Aspiring Software Engineer | AI/ML Enthusiast | Full Stack Developer</h3>
@@ -46,6 +46,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitkumar136&layout=compact&theme=tokyonight"/>
 </p>
+
 
 ---
 
