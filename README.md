@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### `sumit@github:~$ whoami`
+### `Sumitkumar136@github:~$ whoami`
 
 **Software Engineer | AI/ML Developer | Full Stack Developer**
 
