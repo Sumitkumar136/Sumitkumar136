@@ -1,89 +1,85 @@
-<h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
+# 👋 Hi, I'm Sumit Kumar
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Engineer;C%2B%2B+%7C+Python+%7C+Web+Dev;Building+Real-World+Projects"/>
-</p>
+<div align="center">
 
-<h3 align="center">Software Engineer · Full Stack Developer · AI/ML Enthusiast</h3>
+### `sumit@github:~$ whoami`
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+**Software Engineer | AI/ML Developer | Full Stack Developer**
 
----
-
-## 💫 About Me
-
-- 🔭 **Currently Building:** Credit Card Fraud Detection API (Flask + React)
-- 🌱 **Learning:** Data Science · Machine Learning · Advanced SQL
-- 🏆 **Achievement:** 1st Prize — College Web App Competition (.NET)
-- 💼 **Experience:** Internship in Web Development & Python
-- 💬 **Ask me about:** C++ · Python · Web Dev · Databases · ML
-- ⚡ **Fun fact:** Built my own **Snake Game 🐍 in C++** from scratch
+</div>
 
 ---
 
-## 🌐 Connect with Me
+## 🧑‍💻 About Me
 
-<p align="left">
-  <a href="https://instagram.com/sumit_kumar.11"><img src="https://skillicons.dev/icons?i=instagram"/></a>&nbsp;
-  <a href="https://linkedin.com/in/sumit-kumar-659751310"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;
-  <a href="mailto:officialsumitkumar31@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-</p>
+I'm a passionate developer interested in building practical software,
+AI/ML applications, and modern web experiences.
+
+- 🎓 MCA — AI/ML
+- 💻 Interested in Software Engineering, Backend & AI/ML
+- 🚀 Building real-world projects with modern technologies
+- 📚 Currently improving my DSA, Backend, Cloud & AI/ML skills
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,html,css,php,dotnet,mysql,mongodb,bootstrap,jquery,git,github,tensorflow,pytorch" />
-</p>
+### Languages
+`C++` `Python` `Java` `JavaScript` `TypeScript` `SQL`
+
+### Frontend
+`React` `HTML` `CSS` `Tailwind CSS`
+
+### Backend
+`FastAPI` `Node.js` `PHP`
+
+### AI / ML
+`Machine Learning` `RAG` `FAISS` `Sentence Transformers` `Gemini`
+
+### Tools
+`Git` `GitHub` `VS Code` `Docker`
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Tech | Links |
-|--------|------|-------|
-| 💳 **Credit Card Fraud Detection** | Python · Scikit-learn · Pandas | [Code](https://github.com/Sumitkumar136) |
-| 🌐 **Hotel Management System** | Full Stack · PHP · MySQL | [Code](https://github.com/Sumitkumar136) |
-| 📒 **Contact Book** | Python · File Handling | [Code](https://github.com/Sumitkumar136) |
-| 🐍 **Snake Game** | C++ · OOP · Terminal UI | [Code](https://github.com/Sumitkumar136) |
+### 🧠 ResumeIQ
+AI-powered Resume Intelligence & ATS Job Matching Platform.
+
+### 🎮 Game-Based Learning AI/ML RAG
+AI-powered game-based learning platform using RAG and machine learning.
+
+### 🌍 AirQualityAR
+Interactive air-quality visualization platform using maps, charts and AI/ML technologies.
+
+### 🔄 SwapZone
+Barter-based product exchange platform with authentication, chat and notifications.
 
 ---
 
-## 🏆 Achievements & Experience
+## 🏆 Achievements
 
-- 🥇 **1st Prize** — College Web App Competition (.NET Project, 40+ teams)
-- 💼 **Internship** — Web Development & Python (Hands-on Industry Experience)
-- 📊 **Data Skills** — SQL · Excel · Data Analysis & Visualization
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumitkumar136&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sumitkumar136&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitkumar136&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+- 🥇 IBM Day Technovate 4.0 — 1st Prize
+- 🥇 IBM ML Innovation Challenge — First Prize
+- 🏆 ASP.NET / C# — First Prize
+- 🏅 AirQualityAR — Top 5
 
 ---
 
-## 🔥 Contribution Graph
+## 📊 GitHub Activity
 
-[![Sumit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumitkumar136&theme=tokyo-night)](https://github.com/Sumitkumar136)
+<div align="center">
 
----
+![GitHub Contributions](./assets/contributions.svg)
 
-## 👀 Profile Views
-
-![](https://visitcount.itsvg.in/api?id=Sumitkumar136&icon=5&color=6)
+</div>
 
 ---
 
-<p align="center">
-  <i>"Code is not just syntax — it's the way I think."</i><br/>
-  ⭐️ From <a href="https://github.com/Sumitkumar136">Sumit Kumar</a>
-</p>
+<div align="center">
+
+### `sumit@github:~$ echo "Thanks for visiting!"`
+
+⭐ If you like my projects, consider giving them a star!
+
+</div>
