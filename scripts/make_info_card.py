@@ -1,0 +1,119 @@
+from pathlib import Path
+
+OUTPUT_FILE = Path("assets/info-card.svg")
+
+svg = r'''
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="520"
+     height="260"
+     viewBox="0 0 520 260">
+
+<style>
+
+.title {
+    font-family: monospace;
+    font-size: 18px;
+    fill: #ffffff;
+}
+
+.text {
+    font-family: monospace;
+    font-size: 15px;
+    fill: #b8c0cc;
+}
+
+.highlight {
+    fill: #39d353;
+}
+
+.line {
+    stroke: #30363d;
+    stroke-width: 1;
+}
+
+.card {
+    animation: cardIn 1s ease-out forwards;
+}
+
+@keyframes cardIn {
+    from {
+        opacity: 0;
+        transform: translateY(15px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+</style>
+
+<rect
+    width="520"
+    height="260"
+    rx="14"
+    fill="#05070d"
+    stroke="#30363d"
+    class="card"
+/>
+
+<text x="25" y="40" class="title">
+    sumit@github:~$ whoami
+</text>
+
+<line x1="25" y1="55" x2="495" y2="55" class="line"/>
+
+<text x="25" y="90" class="text">
+    Name:
+</text>
+
+<text x="150" y="90" class="text highlight">
+    Sumit Kumar
+</text>
+
+<text x="25" y="120" class="text">
+    Role:
+</text>
+
+<text x="150" y="120" class="text">
+    Software Engineer
+</text>
+
+<text x="25" y="150" class="text">
+    Focus:
+</text>
+
+<text x="150" y="150" class="text">
+    AI/ML • Backend • Full Stack
+</text>
+
+<text x="25" y="180" class="text">
+    Education:
+</text>
+
+<text x="150" y="180" class="text">
+    MCA — AI/ML
+</text>
+
+<text x="25" y="210" class="text">
+    Location:
+</text>
+
+<text x="150" y="210" class="text">
+    India
+</text>
+
+<text x="25" y="240" class="text highlight">
+    $ echo "Keep building 🚀"
+</text>
+
+</svg>
+'''
+
+OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+
+with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
+    file.write(svg)
+
+print(f"Created {OUTPUT_FILE}")
