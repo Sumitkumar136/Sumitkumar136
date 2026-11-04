@@ -99,7 +99,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.08"
+    opacity="0.7"
     class="cell"
     style="animation-delay:0.04s"
 />
@@ -111,7 +111,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.7"
+    opacity="0.08"
     class="cell"
     style="animation-delay:0.05s"
 />
@@ -123,7 +123,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.08"
+    opacity="0.45"
     class="cell"
     style="animation-delay:0.06s"
 />
@@ -147,7 +147,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.45"
+    opacity="0.25"
     class="cell"
     style="animation-delay:0.08s"
 />
@@ -171,7 +171,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.25"
+    opacity="0.08"
     class="cell"
     style="animation-delay:0.1s"
 />
@@ -195,7 +195,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.08"
+    opacity="0.25"
     class="cell"
     style="animation-delay:0.12s"
 />
@@ -219,7 +219,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.25"
+    opacity="0.08"
     class="cell"
     style="animation-delay:0.14s"
 />
@@ -327,7 +327,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.08"
+    opacity="0.25"
     class="cell"
     style="animation-delay:0.23s"
 />
@@ -339,7 +339,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.25"
+    opacity="0.08"
     class="cell"
     style="animation-delay:0.24s"
 />
@@ -351,7 +351,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.08"
+    opacity="0.45"
     class="cell"
     style="animation-delay:0.25s"
 />
@@ -363,7 +363,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.45"
+    opacity="0.25"
     class="cell"
     style="animation-delay:0.26s"
 />
@@ -387,7 +387,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.25"
+    opacity="0.08"
     class="cell"
     style="animation-delay:0.28s"
 />
@@ -399,7 +399,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.08"
+    opacity="0.25"
     class="cell"
     style="animation-delay:0.29s"
 />
@@ -411,7 +411,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.25"
+    opacity="0.08"
     class="cell"
     style="animation-delay:0.3s"
 />
@@ -435,7 +435,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.08"
+    opacity="0.45"
     class="cell"
     style="animation-delay:0.32s"
 />
@@ -447,7 +447,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.45"
+    opacity="0.25"
     class="cell"
     style="animation-delay:0.33s"
 />
@@ -459,7 +459,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.25"
+    opacity="0.08"
     class="cell"
     style="animation-delay:0.34s"
 />
@@ -651,7 +651,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.08"
+    opacity="0.25"
     class="cell"
     style="animation-delay:0.5s"
 />
@@ -663,7 +663,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.25"
+    opacity="0.08"
     class="cell"
     style="animation-delay:0.51s"
 />
@@ -687,7 +687,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.08"
+    opacity="0.45"
     class="cell"
     style="animation-delay:0.53s"
 />
@@ -699,7 +699,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.45"
+    opacity="0.08"
     class="cell"
     style="animation-delay:0.54s"
 />
@@ -795,7 +795,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.08"
+    opacity="0.25"
     class="cell"
     style="animation-delay:0.62s"
 />
@@ -831,7 +831,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.25"
+    opacity="0.08"
     class="cell"
     style="animation-delay:0.65s"
 />
@@ -1491,7 +1491,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.08"
+    opacity="0.45"
     class="cell"
     style="animation-delay:1.2s"
 />
@@ -1503,7 +1503,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.45"
+    opacity="0.25"
     class="cell"
     style="animation-delay:1.21s"
 />
@@ -1515,7 +1515,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.25"
+    opacity="0.7"
     class="cell"
     style="animation-delay:1.22s"
 />
@@ -1527,7 +1527,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.7"
+    opacity="0.25"
     class="cell"
     style="animation-delay:1.23s"
 />
@@ -1539,7 +1539,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.25"
+    opacity="0.08"
     class="cell"
     style="animation-delay:1.24s"
 />
@@ -1695,7 +1695,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.08"
+    opacity="0.45"
     class="cell"
     style="animation-delay:1.37s"
 />
@@ -1707,7 +1707,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.45"
+    opacity="0.25"
     class="cell"
     style="animation-delay:1.3800000000000001s"
 />
@@ -1719,7 +1719,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.25"
+    opacity="0.08"
     class="cell"
     style="animation-delay:1.3900000000000001s"
 />
@@ -1911,7 +1911,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.08"
+    opacity="0.25"
     class="cell"
     style="animation-delay:1.55s"
 />
@@ -1935,7 +1935,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.25"
+    opacity="0.45"
     class="cell"
     style="animation-delay:1.57s"
 />
@@ -1947,7 +1947,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.45"
+    opacity="0.08"
     class="cell"
     style="animation-delay:1.58s"
 />
@@ -3147,7 +3147,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.08"
+    opacity="0.45"
     class="cell"
     style="animation-delay:2.58s"
 />
@@ -3159,7 +3159,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.45"
+    opacity="0.08"
     class="cell"
     style="animation-delay:2.59s"
 />
@@ -3219,7 +3219,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.08"
+    opacity="0.25"
     class="cell"
     style="animation-delay:2.64s"
 />
@@ -3243,7 +3243,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.25"
+    opacity="0.08"
     class="cell"
     style="animation-delay:2.66s"
 />
@@ -3303,7 +3303,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.08"
+    opacity="0.25"
     class="cell"
     style="animation-delay:2.71s"
 />
@@ -3327,7 +3327,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.25"
+    opacity="0.08"
     class="cell"
     style="animation-delay:2.73s"
 />
@@ -3495,7 +3495,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.08"
+    opacity="0.25"
     class="cell"
     style="animation-delay:2.87s"
 />
@@ -3507,7 +3507,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.25"
+    opacity="0.08"
     class="cell"
     style="animation-delay:2.88s"
 />
@@ -3663,7 +3663,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.08"
+    opacity="0.25"
     class="cell"
     style="animation-delay:3.0100000000000002s"
 />
@@ -3675,7 +3675,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.25"
+    opacity="0.08"
     class="cell"
     style="animation-delay:3.02s"
 />
@@ -4071,7 +4071,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.08"
+    opacity="1.0"
     class="cell"
     style="animation-delay:3.35s"
 />
@@ -4083,7 +4083,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="1.0"
+    opacity="0.08"
     class="cell"
     style="animation-delay:3.36s"
 />
@@ -4407,7 +4407,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.08"
+    opacity="0.25"
     class="cell"
     style="animation-delay:3.63s"
 />
@@ -4419,7 +4419,7 @@ viewBox="0 0 835 170">
     height="12"
     rx="2"
     fill="#39d353"
-    opacity="0.25"
+    opacity="0.08"
     class="cell"
     style="animation-delay:3.64s"
 />
